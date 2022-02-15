@@ -1,0 +1,18 @@
+.white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.gray{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9a9999;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
